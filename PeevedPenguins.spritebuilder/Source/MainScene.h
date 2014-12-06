@@ -7,6 +7,7 @@
 //
 
 #import "CCNode.h"
+#import "CCDirector.h"
 
 @interface MainScene : CCNode
 
